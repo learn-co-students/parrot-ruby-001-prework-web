@@ -1,6 +1,6 @@
 def parrot(noise="Squawk!")
   puts noise
-  noise
+  return noise
 end
 
 

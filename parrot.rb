@@ -2,7 +2,7 @@
 
 
 
-def parrot(argument="Squawk!")
-   puts "#{argument}"
-   return argument
+def parrot(sound ="Squawk!")
+   puts "#{sound}"
+   return sound
  end

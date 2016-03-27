@@ -1,7 +1,6 @@
-def parrot(string, default = "Squawk!")
-  puts string;
-  
-return string;
+def parrot( default = "Squawk!")
+  puts default;
+  return default;
 end
 
 

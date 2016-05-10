@@ -2,8 +2,8 @@
 # returns the phrase
 
 def parrot(phrase="Squawk!")
-  puts "#{phrase}"
-  phrase
+  puts "#{phrase}" #----this line is for the programmer 
+  phrase           #----this line is for the computer 
 end 
 
 # def parrot(parrot)

@@ -1,5 +1,5 @@
-def parrot(speak = "Squawk!")# C
-  puts speak
-  return speak
+def parrot(speaks = "Squawk!")# C
+  puts speaks
+  return speaks
 end
 # returns the phrase

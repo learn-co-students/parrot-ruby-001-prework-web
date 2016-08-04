@@ -1,8 +1,5 @@
-def parrot
-  phrase = "Squawk!"
-  puts phrase
-  puts "Pretty Bird!"
-  binding.pry
+def parrot(phrase="Squawk!")
+  puts "#{phrase}"
+  "Squawk!"
+  "#{phrase}"
 end
-
-parrot

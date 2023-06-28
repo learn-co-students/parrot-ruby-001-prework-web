@@ -1,2 +1,5 @@
-# Create method `parrot` that outputs a given phrase and
+def parrot(speaks = "Squawk!")# C
+  puts speaks
+  return speaks
+end
 # returns the phrase
